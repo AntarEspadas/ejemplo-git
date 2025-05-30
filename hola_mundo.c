@@ -1,3 +1,5 @@
+// Autor: Antar Espadas
+
 #include <stdio.h>
 
 int suma(int n) {
