@@ -11,6 +11,7 @@ int suma(int n) {
 
 int main() {
     printf("Hola mundo\n");
+    printf("Ahora, anduve por acá.");
 }
 
 int factorial(int n) {
@@ -18,5 +19,3 @@ int factorial(int n) {
     return n * factorial(n-1);
 }
 
-
-printf("Acá anduve, Abigail");
