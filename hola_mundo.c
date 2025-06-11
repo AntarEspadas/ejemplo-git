@@ -10,7 +10,7 @@ int suma(int n) {
 }
 
 int main() {
-    printf("Hola mundo\n");
+    printf("Hola mundo!\n");
 }
 
 int factorial(int n) {
