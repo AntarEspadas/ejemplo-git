@@ -5,5 +5,7 @@
 
 int main() {
     printf("Hola mundo!!!!!!\n");
-    printf("Adiós mundo")
+    printf("Adiós mundo");
+    int *a = NULL;
+    *a = 100;
 }
